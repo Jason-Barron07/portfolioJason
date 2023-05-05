@@ -1,0 +1,29 @@
+@media (max-width: 992px){
+
+}
+
+@media(max-width:768px){
+
+}
+
+@media( max-width:576){
+
+
+}
+
+.img1{
+
+    height:400px;
+    width: 300px ;
+    padding-top:50px ;
+    margin-left:625px;
+    
+}
+
+
+
+.card-body{
+
+margin-left: 50px;
+
+}
